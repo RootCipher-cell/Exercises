@@ -24,3 +24,7 @@ dotnet run --project ".\Exercises\Fundamentals\Exercise1Welcome\Exercise1Welcome
 ```
 
 Windows Forms projects require Windows and the .NET 10 SDK. Build output, IDE metadata, and local save files are intentionally excluded from version control.
+
+## Maintainer
+
+Created and maintained by Rami Laalai.
